@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Prashant Singh</h1>
 <h3 align="center">A passionate about student at IIT Ropar and i like building solution to real world problems</h3>
 
-- 🔭 I’m currently working on [Player-Tracking](https://github.com/prashant290605/Player-Tracking)
-
 - 📫 How to reach me **prashants18488@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1MrhOaxmZQPTneE7KMQYxCsCxD1BvbKD5/view?usp=sharing](https://drive.google.com/file/d/1MrhOaxmZQPTneE7KMQYxCsCxD1BvbKD5/view?usp=sharing)

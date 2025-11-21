@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Player-Tracking](https://github.com/prashant290605/Player-Tracking)
 
-- 📫 How to reach me **2023mcb1309@iitrpr.ac.in**
+- 📫 How to reach me **prashants18488@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1MrhOaxmZQPTneE7KMQYxCsCxD1BvbKD5/view?usp=sharing](https://drive.google.com/file/d/1MrhOaxmZQPTneE7KMQYxCsCxD1BvbKD5/view?usp=sharing)
 

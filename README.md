@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prashant Singh</h1>
-<h3 align="center">A passionate about student at IIT Ropar and i like building solution to real world problems</h3>
+<h3 align="center">A student at IIT Ropar and passionate about building solution to real world problems</h3>
 
 - 📫 How to reach me **prashants18488@gmail.com**
 
